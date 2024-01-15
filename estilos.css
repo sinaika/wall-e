@@ -1,0 +1,109 @@
+*{
+    padding:0;
+    marging:0;
+}
+html{
+    background:c0c0c0;
+}
+body{
+    height:750px;
+    width:750px;
+    background: #2a1ce7;;
+    margin:auto;
+    margin-top:25px; 
+    background-image:url(Galaxy\ Aesthetic\ Background\ -\ Carli\ Bybel\ Cosmic\ Collection\ 2_0\ _\ IL\ MAKIAGE.jpeg);
+}
+#pollos{
+    height:500px;
+    width:750px;
+    background:#322163;
+}
+header{
+    height:250px;
+    width:750px;
+    background:#322163;
+}
+
+#banner{
+    width:500px;
+    height:250px;
+    background:#4b416e;
+    float:right;
+}
+#logo{
+    width:350px;
+    height:350px;
+    background:#13OACB;
+}
+#buscador{
+    width:250px;
+    height:125px;
+    background:;
+}
+nav{
+    height:50px;
+    background-image: url(Melotte\ 15\ in\ the\ Heart\ of\ the\ Heart\ Nebula\ by….jpeg);
+}
+#navi{
+    height:50px;
+    background:#d5bfff;
+}
+main{
+    height:850px;
+    width:750px;
+    background:#aadfff;
+    background-image:url(download.jpeg);
+}
+footer{
+    height:70px;
+    background:#8d71add2;
+}
+h1, h2{
+            font-family:Georgina,serif;
+        }
+        h1{
+            font-size:3em;
+            }
+            aside{
+                background-color:#ffeaff;
+                padding:5px;
+                float:left;
+            }               
+                .Pastel{
+    margin: 0;
+    padding: 0.4rem;
+        background-color: #eee;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+.forecast > h1,
+.day-forecast {
+    margin: 0.5rem;
+    padding: 0.3rem;
+    font-size: 1.2rem;
+}
+
+.day-forecast {
+    background: right/contain content-box border-box no-repeat  rgba(26, 62, 110, 0.63);
+}
+
+.day-forecast > h2,
+.day-forecast > p {
+    margin: 0.2rem;
+    font-size: 1rem;
+    }
+    #letras{
+        word-spacing:0px;
+    }
+#correo{
+    float:right;
+}
+#letritas{
+    font-family:Bradley,Hand;
+}
+#ba{
+    width:500px;
+    height:250px;
+    background:#f0000;
+    float:right;
+}
